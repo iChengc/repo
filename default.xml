@@ -4,4 +4,5 @@
     <default remote="github" revision="master"/>
     <project path="mmctl" name="iChengc/MMCtl"  revision="master"/>
     <project path="flexbox" name="iChengc/flexbox-layout"  revision="master"/>
+    <project path="eventcalendar" name="iChengc/EventCalendar"  revision="master"/>
 </manifest>
